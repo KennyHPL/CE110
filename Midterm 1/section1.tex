@@ -1,0 +1,21 @@
+\section{CPU Power Efficiency \& Consumption}
+Chip Power Consumtion $= C*Vdd^2*F$\\
+$C =$ capacitance, $Vdd = $ voltage, $F =$ frequency
+
+\textbf{Dennard scaling:} As transistors get smaller their power density stays
+contant, The supply voltage of a chip can be reduced by $~0.7x$ every generation \\
+Dennard scaling held up in the past but now it's not holding up\\
+$Power = C*Vdd^2*F_{0\rightarrow 1}+Vdd*I_{leakage}$
+Leakage gets worse with samller devices and lower $Vdd$, it also gets worse with higher temps\\
+$Energy = AvgPower * ExecutionTime$\\
+$Joules = Watts * sec$ \\
+\textbf{Amdahl's Law-}\\
+We want to make the common case efficient, given an optimization x that accerlerates fraction $f_x$ of the program by a factor $S_x$, the overall speedup is
+$\frac{1}{(1-f_x)+\frac{f_x}{S_x}}$
+
+\subsection*{Performance}
+\textbf{Latency:} how long it takes to do a task \\
+\textbf{Throughput:} total work done per unit time \\
+$ExeTime = \frac{Instrs}{Program}\frac{Clock cycles}{Instr}\frac{Sec}{ClockCycle}$\\
+\textbf{Relative Performance:} define performance as = $1/ExecutionTime$\\
+``X is n times faster than Y'' means $Perormance_x/Performance_y$\\
