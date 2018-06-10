@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.4)  9 JUN 2018 21:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.26)  10 JUN 2018 03:48
 entering extended mode
-**./cheatsheet.tex
-(cheatsheet.tex
+**"C:/Users/Kenny/Desktop/Classes/git/CE110/Midterm 1/cheatsheet.tex"
+("C:/Users/Kenny/Desktop/Classes/git/CE110/Midterm 1/cheatsheet.tex"
 LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
@@ -340,8 +340,11 @@ Now handling font encoding U ...
    defining Unicode char U+2423 (decimal 9251)
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2017/05/19 3.10 The Babel package
+Package: babel 2018/02/14 3.18 The Babel package
 
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def"
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
 *************************************
 * Local config file bblopts.cfg used
 *
@@ -356,9 +359,12 @@ Language: ngerman 2016/11/02 v2.9 German support for babel (new orthography)
 Language: ngermanb 2016/11/02 v2.9 German support for babel (new orthography)
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2017/05/19 3.10 Babel common definitions
+File: babel.def 2018/02/14 3.18 Babel common definitions
 \babel@savecnt=\count87
 \U@D=\dimen103
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\txtbabel.def")
+\bbl@dirlevel=\count88
 )
 Package babel Info: Making " an active character on input line 125.
 )))
@@ -383,14 +389,14 @@ Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
@@ -401,15 +407,7 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count88
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen106
 \Gin@req@width=\dimen107
@@ -936,7 +934,7 @@ Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
-Package: amsmath 2016/11/05 v2.16a AMS math features
+Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
@@ -1519,9 +1517,15 @@ Package: mdframed 2013/07/01 1.9b: mdframed
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
@@ -1531,10 +1535,10 @@ Package etexcmds Info: Could not find \expanded.
 )))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
-Package: expl3 2018-04-30 L3 programming layer (loader) 
+Package: expl3 2018-06-01 L3 programming layer (loader) 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
-Package: expl3 2018-04-30 L3 programming layer (code)
+Package: expl3 2018-06-01 L3 programming layer (code)
 \c_max_int=\count140
 \l_tmpa_int=\count141
 \l_tmpb_int=\count142
@@ -1681,7 +1685,7 @@ Package: expl3 2018-04-30 L3 programming layer (code)
 \l__seq_internal_b_int=\count289
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def"
-File: l3pdfmode.def 2018-05-12 v L3 Experimental driver: PDF mode
+File: l3pdfmode.def 2018-06-01 v L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count290
 ))
 Package: xparse 2018-05-12 L3 Experimental document command parser
@@ -1705,7 +1709,7 @@ Package: zref-base 2016/05/21 v2.26 Module base for zref (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -1851,13 +1855,14 @@ File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
 \pgf@layerbox@background=\box106
 \pgf@layerboxsaved@background=\box107
 
-(cheatsheet.aux)
+("C:/Users/Kenny/Desktop/Classes/git/CE110/Midterm 1\cheatsheet.aux")
 \openout1 = `cheatsheet.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 179.
 LaTeX Font Info:    Try loading font information for OML+jkp on input line 179.
 
- ("C:\Program Files\MiKTeX 2.9\tex\latex\kpfonts\omljkp.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\kpfonts\omljkp.fd"
 File: omljkp.fd 2006/08/15 v1.0
 )
 LaTeX Font Info:    ... okay on input line 179.
@@ -1933,7 +1938,7 @@ Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
@@ -1986,7 +1991,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `jkp' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-(section1.tex
+("C:/Users/Kenny/Desktop/Classes/git/CE110/Midterm 1\section1.tex"
 LaTeX Font Info:    Try loading font information for T1+SourceSansPro-LF on inp
 ut line 1.
 
@@ -2030,40 +2035,37 @@ LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 2.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\kpfonts\ujkpsyc.fd"
 File: ujkpsyc.fd 2006/08/15 v1.0
-)) (section2.tex
+))
+("C:/Users/Kenny/Desktop/Classes/git/CE110/Midterm 1\section2.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 17--1
 
  []
 
 <png/risc.png, id=4, 1301.61281pt x 631.60968pt>
 File: png/risc.png Graphic file (type png)
- <use png/risc.png>
-Package pdftex.def Info: png/risc.png used on input line 2.
+<use png/risc.png>
+Package pdftex.def Info: png/risc.png  used on input line 2.
 (pdftex.def)             Requested size: 160.4403pt x 77.85233pt.
-
 <png/isa.png, id=5, 1292.57906pt x 771.63281pt>
 File: png/isa.png Graphic file (type png)
- <use png/isa.png>
-Package pdftex.def Info: png/isa.png used on input line 3.
+<use png/isa.png>
+Package pdftex.def Info: png/isa.png  used on input line 3.
 (pdftex.def)             Requested size: 160.4403pt x 95.77095pt.
-
 <png/stack.png, id=6, 1269.24188pt x 595.47469pt>
 File: png/stack.png Graphic file (type png)
- <use png/stack.png>
-Package pdftex.def Info: png/stack.png used on input line 17.
+<use png/stack.png>
+Package pdftex.def Info: png/stack.png  used on input line 24.
 (pdftex.def)             Requested size: 160.4403pt x 75.27008pt.
-
 <png/save.png, id=7, 1371.62437pt x 631.60968pt>
 File: png/save.png Graphic file (type png)
- <use png/save.png>
-Package pdftex.def Info: png/save.png used on input line 18.
+<use png/save.png>
+Package pdftex.def Info: png/save.png  used on input line 25.
 (pdftex.def)             Requested size: 160.4403pt x 73.87201pt.
-)
-(section3.tex <png/pipe.png, id=8, 1352.80406pt x 623.32875pt>
+) ("C:/Users/Kenny/Desktop/Classes/git/CE110/Midterm 1\section3.tex"
+<png/pipe.png, id=8, 1352.80406pt x 623.32875pt>
 File: png/pipe.png Graphic file (type png)
-
 <use png/pipe.png>
-Package pdftex.def Info: png/pipe.png used on input line 3.
+Package pdftex.def Info: png/pipe.png  used on input line 3.
 (pdftex.def)             Requested size: 160.4403pt x 73.92119pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--8
@@ -2093,28 +2095,26 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `jkp' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
 <png/forwarding.png, id=9, 1367.1075pt x 743.77875pt>
 File: png/forwarding.png Graphic file (type png)
- <use png/forwarding.png>
-Package pdftex.def Info: png/forwarding.png used on input line 30.
+<use png/forwarding.png>
+Package pdftex.def Info: png/forwarding.png  used on input line 30.
 (pdftex.def)             Requested size: 160.4403pt x 87.2862pt.
-
 <png/forwardingcontrol.png, id=10, 1234.6125pt x 727.96968pt>
 File: png/forwardingcontrol.png Graphic file (type png)
-
 <use png/forwardingcontrol.png>
-Package pdftex.def Info: png/forwardingcontrol.png used on input line 31.
+Package pdftex.def Info: png/forwardingcontrol.png  used on input line 31.
 (pdftex.def)             Requested size: 160.4403pt x 94.59494pt.
-) (section4.tex
+)
+("C:/Users/Kenny/Desktop/Classes/git/CE110/Midterm 1\section4.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 33--1
 
  []
 
 <png/ooo.png, id=11, 956.82469pt x 602.25pt>
 File: png/ooo.png Graphic file (type png)
- <use png/ooo.png>
-Package pdftex.def Info: png/ooo.png used on input line 3.
+<use png/ooo.png>
+Package pdftex.def Info: png/ooo.png  used on input line 3.
 (pdftex.def)             Requested size: 160.4403pt x 100.98431pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--7
@@ -2138,11 +2138,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--13
 
 <png/super.png, id=12, 1224.82594pt x 180.675pt>
 File: png/super.png Graphic file (type png)
- <use png/super.png>
-Package pdftex.def Info: png/super.png used on input line 14.
+<use png/super.png>
+Package pdftex.def Info: png/super.png  used on input line 14.
 (pdftex.def)             Requested size: 160.4403pt x 23.66501pt.
-)
-(section5.tex
+) ("C:/Users/Kenny/Desktop/Classes/git/CE110/Midterm 1\section5.tex"
 Underfull \hbox (badness 5274) in paragraph at lines 14--1
 \T1/jkp/m/n/9 (+20) Limited branch pre-dic-ti-on ac-cu-ra-cy
  []
@@ -2154,8 +2153,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--1
 
 <png/mem.png, id=13, 1149.5447pt x 699.36281pt>
 File: png/mem.png Graphic file (type png)
- <use png/mem.png>
-Package pdftex.def Info: png/mem.png used on input line 2.
+<use png/mem.png>
+Package pdftex.def Info: png/mem.png  used on input line 2.
 (pdftex.def)             Requested size: 160.4403pt x 97.60065pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
@@ -2169,14 +2168,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--11
 
 <png/cache.png, id=14, 1385.92781pt x 733.23938pt>
 File: png/cache.png Graphic file (type png)
- <use png/cache.png>
-Package pdftex.def Info: png/cache.png used on input line 24.
+<use png/cache.png>
+Package pdftex.def Info: png/cache.png  used on input line 24.
 (pdftex.def)             Requested size: 160.4403pt x 84.87457pt.
-
 <png/term.png, id=15, 1292.57906pt x 721.94719pt>
 File: png/term.png Graphic file (type png)
- <use png/term.png>
-Package pdftex.def Info: png/term.png used on input line 25.
+<use png/term.png>
+Package pdftex.def Info: png/term.png  used on input line 25.
 (pdftex.def)             Requested size: 160.4403pt x 89.60425pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 18--29
@@ -2191,15 +2189,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--38
 
 <png/cacheblock.png, id=16, 1103.62312pt x 506.6428pt>
 File: png/cacheblock.png Graphic file (type png)
-
 <use png/cacheblock.png>
-Package pdftex.def Info: png/cacheblock.png used on input line 48.
+Package pdftex.def Info: png/cacheblock.png  used on input line 48.
 (pdftex.def)             Requested size: 160.4403pt x 73.65073pt.
- <png/block.png, id=17, 1020.81375pt x 268.75406pt>
+<png/block.png, id=17, 1020.81375pt x 268.75406pt>
 File: png/block.png Graphic file (type png)
-
 <use png/block.png>
-Package pdftex.def Info: png/block.png used on input line 52.
+Package pdftex.def Info: png/block.png  used on input line 52.
 (pdftex.def)             Requested size: 160.4403pt x 42.23877pt.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 53.
@@ -2211,145 +2207,21 @@ Overfull \vbox (0.58315pt too high) has occurred while \output is active []
 
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./png/risc.png> <./png/is
-a.png> <./png/stack.png> <./png/save.png> <./png/pipe.png> <./png/forwarding.pn
-g> <./png/forwardingcontrol.png> <./png/ooo.png> <./png/super.png> <./png/mem.p
-ng> <./png/cache.png> <./png/term.png>]
-<png/fully.png, id=30, 1030.60031pt x 456.95718pt>
-File: png/fully.png Graphic file (type png)
- <use png/fully.png>
-Package pdftex.def Info: png/fully.png used on input line 58.
-(pdftex.def)             Requested size: 160.4403pt x 71.13441pt.
+{C:/Users/Kenny/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+! pdfTeX error (font expansion): auto expansion is only possible with scalable 
+fonts.
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.53 
+     
 
-<png/nway.png, id=31, 1123.94907pt x 494.59781pt>
-File: png/nway.png Graphic file (type png)
- <use png/nway.png>
-Package pdftex.def Info: png/nway.png used on input line 64.
-(pdftex.def)             Requested size: 160.4403pt x 70.60167pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--70
-
- []
-
-<png/ex.png, id=32, 1182.66844pt x 677.53125pt>
-File: png/ex.png Graphic file (type png)
- <use png/ex.png>
-Package pdftex.def Info: png/ex.png used on input line 71.
-(pdftex.def)             Requested size: 160.4403pt x 91.90732pt.
-
-<png/write.png, id=33, 1172.12906pt x 687.31781pt>
-File: png/write.png Graphic file (type png)
- <use png/write.png>
-Package pdftex.def Info: png/write.png used on input line 76.
-(pdftex.def)             Requested size: 160.4403pt x 94.07387pt.
-
-<png/write(1).png, id=34, 1142.76938pt x 694.84593pt>
-File: png/write(1).png Graphic file (type png)
- <use png/write(1).png>
-Package pdftex.def Info: png/write(1).png used on input line 77.
-(pdftex.def)             Requested size: 160.4403pt x 97.55342pt.
-
-<png/writemiss.png, id=35, 954.56625pt x 545.03625pt>
-File: png/writemiss.png Graphic file (type png)
- <use png/writemiss.png>
-Package pdftex.def Info: png/writemiss.png used on input line 79.
-(pdftex.def)             Requested size: 160.4403pt x 91.60704pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--83
-
- []
-
-<png/multi.png, id=36, 918.43124pt x 581.17125pt>
-File: png/multi.png Graphic file (type png)
- <use png/multi.png>
-Package pdftex.def Info: png/multi.png used on input line 87.
-(pdftex.def)             Requested size: 160.4403pt x 101.52026pt.
-
-<png/diagram.png, id=37, 1160.08406pt x 654.94687pt>
-File: png/diagram.png Graphic file (type png)
- <use png/diagram.png>
-Package pdftex.def Info: png/diagram.png used on input line 89.
-(pdftex.def)             Requested size: 160.4403pt x 90.57265pt.
-
-<png/fsm.png, id=39, 710.655pt x 606.76688pt>
-File: png/fsm.png Graphic file (type png)
- <use png/fsm.png>
-Package pdftex.def Info: png/fsm.png used on input line 91.
-(pdftex.def)             Requested size: 160.4403pt x 136.97958pt.
-
-<png/cc.png, id=40, 1033.61156pt x 587.94656pt>
-File: png/cc.png Graphic file (type png)
- <use png/cc.png>
-Package pdftex.def Info: png/cc.png used on input line 93.
-(pdftex.def)             Requested size: 160.4403pt x 91.25636pt.
-
-<png/proto.png, id=41, 916.92563pt x 462.97969pt>
-File: png/proto.png Graphic file (type png)
- <use png/proto.png>
-Package pdftex.def Info: png/proto.png used on input line 95.
-(pdftex.def)             Requested size: 160.4403pt x 81.00851pt.
-
-<png/protofsm.png, id=42, 1044.15094pt x 627.09282pt>
-File: png/protofsm.png Graphic file (type png)
- <use png/protofsm.png>
-Package pdftex.def Info: png/protofsm.png used on input line 100.
-(pdftex.def)             Requested size: 160.4403pt x 96.35634pt.
-
-<png/2proto.png, id=43, 962.09438pt x 554.07pt>
-File: png/2proto.png Graphic file (type png)
- <use png/2proto.png>
-Package pdftex.def Info: png/2proto.png used on input line 102.
-(pdftex.def)             Requested size: 160.4403pt x 92.39832pt.
-
-<png/3proto.png, id=44, 913.91437pt x 576.65437pt>
-File: png/3proto.png Graphic file (type png)
- <use png/3proto.png>
-Package pdftex.def Info: png/3proto.png used on input line 104.
-(pdftex.def)             Requested size: 160.4403pt x 101.23279pt.
-
-<png/msi.png, id=45, 1037.37563pt x 539.01375pt>
-File: png/msi.png Graphic file (type png)
- <use png/msi.png>
-Package pdftex.def Info: png/msi.png used on input line 106.
-(pdftex.def)             Requested size: 160.4403pt x 83.35709pt.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 99--187
-
- []
-
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 187.
-
-Overfull \vbox (0.58315pt too high) has occurred while \output is active []
-
-
-[2 <./png/cacheblock.png> <./png/block.png> <./png/fully.png> <./png/nway.png> 
-<./png/ex.png> <./png/write.png> <./png/write(1).png> <./png/writemiss.png> <./
-png/multi.png> <./png/diagram.png> <./png/fsm.png> <./png/cc.png> <./png/proto.
-png> <./png/protofsm.png> <./png/2proto.png> <./png/3proto.png> <./png/msi.png>
-] (cheatsheet.aux) ) 
+ 
 Here is how much of TeX's memory you used:
- 30971 strings out of 493323
- 613353 string characters out of 3139052
- 714149 words of memory out of 3000000
- 33829 multiletter control sequences out of 15000+200000
- 611361 words of font info for 170 fonts, out of 3000000 for 9000
+ 30840 strings out of 493305
+ 612897 string characters out of 3138874
+ 714005 words of memory out of 3000000
+ 33787 multiletter control sequences out of 15000+200000
+ 603710 words of font info for 106 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,13n,76p,837b,1003s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/kpfonts/kpfont
-s-expert.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Progr
-am Files/MiKTeX 2.9/fonts/enc/dvips/sourcesanspro/a_ggs4wk.enc}<C:/Program File
-s/MiKTeX 2.9/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpbn8a.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpbne.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/kpfonts/jkpmi.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/kpfonts/jkpmn8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kp
-fonts/jkpmne.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpsy.
-pfb>
-Output written on cheatsheet.pdf (2 pages, 2895588 bytes).
-PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 21150 words of extra memory for PDF output out of 24883 (max. 10000000)
-
+ 55i,13n,74p,888b,1003s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
