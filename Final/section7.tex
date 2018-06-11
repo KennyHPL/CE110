@@ -1,0 +1,10 @@
+\section{Virtual Memory}
+We expose a virtual memory space to applications so that they can
+assume that they own the whole space, then the OS handles the mapping of virtual
+to physical memory space.
+
+\textbf{Page Table:} A data structure which contains virtual to physical address
+mappings. If we haven't used a page in a while we can map it to disk memory instead
+of DRAM. Page tables are mapping in a coarser granularity i.e 4Kb
+
+\includegraphics[width=\linewidth]{png/pagetable.png}
