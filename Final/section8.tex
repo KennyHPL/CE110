@@ -49,4 +49,7 @@ source, execution is only halted during actual transfer.
 \textbf{Direct Memory Access (DMA)} A custom engine for data movement, transfer
 blocks of data to or from memory without CPU intervention. The processor sets up
 DMA by giving the indentity of the device and the memory address for source/dest
-DMA egines are arbiters.
+DMA engines are arbiters.
+
+\textbf{DMA Issues} Memory address translation and cache coherence are problems
+with DMA read. To solve the coherency problem we can make the device coherent.

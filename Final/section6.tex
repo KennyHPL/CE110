@@ -14,7 +14,10 @@ can overlabp ACTIVATE and PRECHARGE latencies, e.g. READ to bank 0 while ACTIVAT
 
 \textbf{Ranks} A 64-bit DIMM with 16 chips with x8 interfaces has 2 ranks, each
 64-bit group of chips is called a rank, all chips in a rank respond to the same
-command
+command, different ranks share command/address/data lines, select between different
+ranks whit chip select signal. Ranks provide more ``banks" across multiple chips
+
+\includegraphics[width=\linewidth]{png/rank.png}
 
 \textbf{DRAM Channels} All DIMMs get the same command, one of the ranks replies
 

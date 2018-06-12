@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.26)  11 JUN 2018 04:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.26)  11 JUN 2018 19:24
 entering extended mode
 **./cheatsheet.tex
 (cheatsheet.tex
@@ -2211,13 +2211,18 @@ File: png/drambank.png Graphic file (type png)
 <use png/drambank.png>
 Package pdftex.def Info: png/drambank.png  used on input line 13.
 (pdftex.def)             Requested size: 132.03358pt x 80.76054pt.
+<png/rank.png, id=39, 587.19376pt x 498.36188pt>
+File: png/rank.png Graphic file (type png)
+<use png/rank.png>
+Package pdftex.def Info: png/rank.png  used on input line 20.
+(pdftex.def)             Requested size: 132.03358pt x 112.05814pt.
 ) (section7.tex
-<png/pagetable.png, id=39, 852.93657pt x 508.14844pt>
+<png/pagetable.png, id=40, 852.93657pt x 508.14844pt>
 File: png/pagetable.png Graphic file (type png)
 <use png/pagetable.png>
 Package pdftex.def Info: png/pagetable.png  used on input line 12.
 (pdftex.def)             Requested size: 132.03358pt x 78.66139pt.
-<png/tlb.png, id=40, 646.66594pt x 447.92343pt>
+<png/tlb.png, id=41, 646.66594pt x 447.92343pt>
 File: png/tlb.png Graphic file (type png)
 <use png/tlb.png>
 Package pdftex.def Info: png/tlb.png  used on input line 21.
@@ -2227,7 +2232,7 @@ Underfull \hbox (badness 7631) in paragraph at lines 23--24
 []\T1/jkp/b/n/9 Virtually In-dexed, Phy-si-cal-ly
  []
 
-<png/tlblook.png, id=41, 831.85782pt x 464.4853pt>
+<png/tlblook.png, id=42, 831.85782pt x 464.4853pt>
 File: png/tlblook.png Graphic file (type png)
 <use png/tlblook.png>
 Package pdftex.def Info: png/tlblook.png  used on input line 25.
@@ -2242,59 +2247,79 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 []\T1/jkp/b/n/9 Throughput-Latency Tra-de-off:
  []
 
-<png/bustransaction.png, id=42, 783.67781pt x 484.05844pt>
+<png/bustransaction.png, id=43, 783.67781pt x 484.05844pt>
 File: png/bustransaction.png Graphic file (type png)
 <use png/bustransaction.png>
 Package pdftex.def Info: png/bustransaction.png  used on input line 26.
 (pdftex.def)             Requested size: 132.03358pt x 81.55023pt.
-<png/bus_sync.png, id=43, 734.745pt x 472.01344pt>
+<png/bus_sync.png, id=44, 734.745pt x 472.01344pt>
 File: png/bus_sync.png Graphic file (type png)
 <use png/bus_sync.png>
 Package pdftex.def Info: png/bus_sync.png  used on input line 30.
 (pdftex.def)             Requested size: 132.03358pt x 84.8147pt.
-<png/ptplink.png, id=44, 855.195pt x 517.935pt>
+<png/ptplink.png, id=45, 855.195pt x 517.935pt>
 File: png/ptplink.png Graphic file (type png)
 <use png/ptplink.png>
 Package pdftex.def Info: png/ptplink.png  used on input line 40.
 (pdftex.def)             Requested size: 132.03358pt x 79.96297pt.
-<png/polling.png, id=45, 810.77907pt x 469.755pt>
+<png/polling.png, id=46, 810.77907pt x 469.755pt>
 File: png/polling.png Graphic file (type png)
 <use png/polling.png>
 Package pdftex.def Info: png/polling.png  used on input line 44.
 (pdftex.def)             Requested size: 132.03358pt x 76.49556pt.
+) (section9.tex
+LaTeX Font Info:    Try loading font information for T1+jkptt on input line 12.
+
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\kpfonts\t1jkptt.fd"
+File: t1jkptt.fd 2007/01/26 Fontinst v1.928 font definitions for T1/jkptt.
 )
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `jkptt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+<png/multithread.png, id=47, 474.27188pt x 367.3725pt>
+File: png/multithread.png Graphic file (type png)
+<use png/multithread.png>
+Package pdftex.def Info: png/multithread.png  used on input line 31.
+(pdftex.def)             Requested size: 132.03358pt x 102.2694pt.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 31--191
+
+ []
+
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 190.
+ mdframed uses option nobreak mdframed on input line 191.
 
 Overfull \vbox (0.58315pt too high) has occurred while \output is active []
 
 
 [2 <./png/ex.png> <./png/write.png> <./png/write(1).png> <./png/writemiss.png> 
-<./png/msi.png> <./png/dram.png> <./png/drambank.png> <./png/pagetable.png> <./
-png/tlb.png> <./png/tlblook.png> <./png/bustransaction.png> <./png/bus_sync.png
-> <./png/ptplink.png> <./png/polling.png>] (cheatsheet.aux) ) 
+<./png/msi.png> <./png/dram.png> <./png/drambank.png> <./png/rank.png> <./png/p
+agetable.png> <./png/tlb.png> <./png/tlblook.png> <./png/bustransaction.png> <.
+/png/bus_sync.png> <./png/ptplink.png> <./png/polling.png> <./png/multithread.p
+ng>] (cheatsheet.aux) ) 
 Here is how much of TeX's memory you used:
- 31043 strings out of 493305
- 615199 string characters out of 3138874
- 716990 words of memory out of 3000000
- 33854 multiletter control sequences out of 15000+200000
- 626071 words of font info for 205 fonts, out of 3000000 for 9000
+ 31092 strings out of 493305
+ 616005 string characters out of 3138874
+ 716991 words of memory out of 3000000
+ 33887 multiletter control sequences out of 15000+200000
+ 627398 words of font info for 211 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,13n,76p,837b,1007s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/
-MiKTeX 2.9/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}{C:/Program Files/MiKTeX 
-2.9/fonts/enc/dvips/base/8r.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/so
-urcesanspro/a_ggs4wk.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/sources
-anspro/SourceSansPro-Bold.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/so
-urcesanspro/SourceSansPro-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/kpfonts/jkpbn8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfo
-nts/jkpbne.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmi.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmne.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/kpfonts/jkpsy.pfb>
-Output written on cheatsheet.pdf (2 pages, 2823040 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
+}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}{C:/Pr
+ogram Files/MiKTeX 2.9/fonts/enc/dvips/sourcesanspro/a_ggs4wk.enc}<C:/Program F
+iles/MiKTeX 2.9/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpbn8a.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpbne.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/kpfonts/jkpmi.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/kpfonts/jkpmn8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/kpfonts/jkpmne.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkp
+sy.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpttmn8a.pfb>
+Output written on cheatsheet.pdf (2 pages, 2933538 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
+ 84 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 22174 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 22696 words of extra memory for PDF output out of 24883 (max. 10000000)
 

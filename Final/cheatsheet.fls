@@ -494,6 +494,11 @@ INPUT ./png/drambank.png
 INPUT ./png/drambank.png
 INPUT ./png/drambank.png
 INPUT ./png/drambank.png
+INPUT png/rank.png
+INPUT ./png/rank.png
+INPUT ./png/rank.png
+INPUT ./png/rank.png
+INPUT ./png/rank.png
 INPUT section7.tex
 INPUT section7.tex
 INPUT png/pagetable.png
@@ -535,9 +540,22 @@ INPUT ./png/polling.png
 INPUT ./png/polling.png
 INPUT ./png/polling.png
 INPUT ./png/polling.png
+INPUT section9.tex
+INPUT section9.tex
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/kpfonts/t1jkptt.fd
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/kpfonts/t1jkptt.fd
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/kpfonts/jkpttmn8t.tfm
+INPUT png/multithread.png
+INPUT ./png/multithread.png
+INPUT ./png/multithread.png
+INPUT ./png/multithread.png
+INPUT ./png/multithread.png
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/kpfonts/jkpttmn8t.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/kpfonts/jkpttmn8r.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/kpfonts/jkpttmne.tfm
 INPUT cheatsheet.aux
-INPUT C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/kpfonts/kpfonts-expert.enc
 INPUT C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
+INPUT C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/kpfonts/kpfonts-expert.enc
 INPUT C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/sourcesanspro/a_ggs4wk.enc
 INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb
 INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb
@@ -555,3 +573,5 @@ INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmne.pfb
 INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmne.pfb
 INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpsy.pfb
 INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpsy.pfb
+INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpttmn8a.pfb
+INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpttmn8a.pfb
